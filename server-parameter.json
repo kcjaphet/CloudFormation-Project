@@ -1,0 +1,19 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Tawfiq-udacityProject"
+	},
+	
+    {  
+		"ParameterKey": "AMImage",
+		"ParameterValue": "ami-053b0d53c279acc90"
+	},
+
+  {  
+		"ParameterKey": "KeyName",
+		"ParameterValue": "kel_keypair.pem"
+  }
+    
+
+    	
+]
